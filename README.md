@@ -1,5 +1,7 @@
 # ThreadIterationStrategy 
 
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/chethanrepo/ThreadIterationStrategy)
+
 ![alt text](https://github.com/chethanrepo/ThreadIterationStrategy/blob/master/docs/process_ring_of_threads.jpg)
 
   It is just a implementation to solve a general requirement like Iterating through set of threads and pass the status/task from one thread to another in a ring fashion. If there is requirement to iterate through all the nodes in a given cluster and the status of the each node is tracked this most efficient thread / node iteration strategy can be reused.
